@@ -1,6 +1,7 @@
 ---
-title: "Financial Econometrics"
+title: "MSIN0105 Financial Econometrics"
 collection: teaching
+category: UCL
 type: "Supporting TA"
 permalink: /teaching/FE
 venue: "MSc Finance, UCL School of Management"

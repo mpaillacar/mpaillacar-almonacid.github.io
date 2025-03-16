@@ -84,6 +84,11 @@ publication_category:
   manuscripts:
     title: 'Publications'    
 
+# Teaching Categories - List of categories for teaching experience
+teaching_category:
+  UCL:
+    title: "University College London"    
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
