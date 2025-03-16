@@ -3,7 +3,7 @@ title: "The pass-through of loan-loss-provisioning on mortgage lending: Evidence
 collection: publications
 category: manuscripts
 permalink: /publication/LTV
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper examines the impact of loan-loss provisioning (LLP) regulation on the mortgage lending market. Using administrative data, we find that, in Chile, LLP reduced loan-to-value ratios while having minimal effects on interest rates, suggesting that banks adjust lending standards beyond pricing strategies.'
 date: 2022-02-01
 venue: 'Journal of Banking and Finance'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
