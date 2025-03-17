@@ -11,7 +11,7 @@ redirect_from:
 
 **Education**
 ======
-* Ph.D in Financial Economics, University College London, 2027 (expected)
+* Ph.D. in Financial Economics, University College London, 2027 (expected)
 * M.A. in Economics, The University of Manchester, 2017
 * B.S. in Business and Economics, Austral University of Chile, 2014
 
@@ -19,13 +19,13 @@ redirect_from:
 **Research Experience**
 ======
 
-* 2023 - : Research Assistant
+* 2023 - Now: Research Assistant
   * RA to Dr. Wei Cui, University College London
 
-* 2019-2022: Economic Analyst
+* 2019 - 2022: Economic Analyst
   * Economic Research Area, Central Bank of Chile
 
-* 2018-2019: Economic Analyst
+* 2018 - 2019: Economic Analyst
   * Financial Stanility Area, Central Bank of Chile
 
 
