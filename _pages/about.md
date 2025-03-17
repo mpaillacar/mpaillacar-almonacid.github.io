@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!
-------
+**Welcome!**
 
+------
 I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk). My current research focuses on understanding the role of risk premium in shaping wealth inequality and the channels through which it affects the distribution of wealth.
 
 ------
