@@ -1,6 +1,8 @@
 ---
 title: "The pass-through of loan-loss-provisioning on mortgage lending: Evidence from a regulatory change"
 authors: "Manuel Paillacar-Almonacid, Mauricio Calani"
+#coauthors: 
+#  - "Mauricio Calani"
 collection: publications
 category: manuscripts
 permalink: /publication/LTV
