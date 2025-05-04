@@ -29,4 +29,4 @@ redirect_from:
   * Financial Stanility Area, Central Bank of Chile
 
 <!-- TO DO: Download my CV: [CV (PDF)](/files/resume.pdf) -->
-Download my CV: [CV (PDF)](/mpaillacar.almonacid.github.io/files/resume.pdf)
+Download my CV: [CV (PDF)](/mpaillacar-almonacid.github.io/files/resume.pdf)
