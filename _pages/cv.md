@@ -28,5 +28,5 @@ redirect_from:
 * 2018 - 2019: Economic Analyst
   * Financial Stanility Area, Central Bank of Chile
 
-
-Download my CV: [CV (PDF)](/files/resume.pdf)
+<!-- TO DO: Download my CV: [CV (PDF)](/files/resume.pdf) -->
+Download my CV: [CV (PDF)](/mpaillacar-almonacid.github.io/files/resume.pdf)
