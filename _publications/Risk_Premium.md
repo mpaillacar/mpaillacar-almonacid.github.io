@@ -1,5 +1,5 @@
 ---
-title: "Endogenous Risk Premium and Wealth Distribution (Draft coming soon!)"
+title: "Endogenous Risk Premia and Wealth Distribution (Draft coming soon!)"
 collection: publications
 category: conferences
 #permalink: /publication/Risk_Premium
