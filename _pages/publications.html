@@ -5,31 +5,66 @@ permalink: /publications/
 author_profile: true
 ---
 
+<style>
+.section-header {
+  font-size: 1.5em;
+  font-weight: 600;
+  color: #333;
+  margin: 40px 0 20px 0;
+  padding-bottom: 10px;
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.section-header:first-of-type {
+  margin-top: 20px;
+}
+
+.publication-group {
+  margin-bottom: 50px;
+}
+
+.archive__item {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.archive__item:last-child {
+  border-bottom: none;
+}
+</style>
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+<div class="publication-group">
+  <h2 class="section-header">Working in Progress</h2>
+  {% assign working_papers = site.publications | where: "category", "conferences" %}
+  {% for post in working_papers reversed %}
     {% include archive-single.html %}
   {% endfor %}
+</div>
+
+<div class="publication-group">
+  <h2 class="section-header">Publications</h2>
+  {% assign published_papers = site.publications | where: "category", "manuscripts" %}
+  {% for post in published_papers reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
+
+<!-- Fallback for any other publications -->
+{% assign other_papers = site.publications | where_exp: "item", "item.category != 'conferences' and item.category != 'manuscripts'" %}
+{% if other_papers.size > 0 %}
+<div class="publication-group">
+  <h2 class="section-header">Other Publications</h2>
+  {% for post in other_papers reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+</div>
 {% endif %}
 
 

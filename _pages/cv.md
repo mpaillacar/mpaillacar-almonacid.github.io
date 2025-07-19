@@ -13,7 +13,7 @@ redirect_from:
 ======
 * Ph.D. in Financial Economics, University College London, 2027 (expected)
 * M.A. in Economics, The University of Manchester, 2017
-* B.S. in Business and Economics, Austral University of Chile, 2014
+* BSc. in Business and Economics, Austral University of Chile, 2014
 
 
 **Research Experience**
@@ -26,7 +26,7 @@ redirect_from:
   * Economic Research Area, Central Bank of Chile
 
 * 2018 - 2019: Economic Analyst
-  * Financial Stanility Area, Central Bank of Chile
+  * Financial Stability Area, Central Bank of Chile
 
 <!-- TO DO: Download my CV: [CV (PDF)](/files/resume.pdf) -->
 Download my CV: [CV (PDF)](/mpaillacar-almonacid.github.io/files/resume.pdf)
