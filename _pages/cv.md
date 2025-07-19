@@ -1,32 +1,26 @@
 ---
-layout: archive
+layout: minimal
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Curriculum Vitae
 
-**Education**
-======
-* Ph.D. in Financial Economics, University College London, 2027 (expected)
-* M.A. in Economics, The University of Manchester, 2017
-* B.S. in Business and Economics, Austral University of Chile, 2014
+You can download my CV [here](/files/resume.pdf).
 
+## Education
 
-**Research Experience**
-======
+**Ph.D. in Financial Economics** (Expected 2027)  
+University College London  
 
-* 2023 - Now: Research Assistant
-  * RA to Dr. Wei Cui, University College London
+**M.A. in Economics** (2019)  
+Universidad de Chile  
 
-* 2019 - 2022: Economic Analyst
-  * Economic Research Area, Central Bank of Chile
+## Experience
 
-* 2018 - 2019: Economic Analyst
-  * Financial Stanility Area, Central Bank of Chile
+**Economic Analyst** (2019-2022)  
+Central Bank of Chile, Economic Research Area  
 
-<!-- TO DO: Download my CV: [CV (PDF)](/files/resume.pdf) -->
-Download my CV: [CV (PDF)](/mpaillacar-almonacid.github.io/files/resume.pdf)
+## Research Interests
+
+Macro-Finance, Corporate Finance, Household Finance

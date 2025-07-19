@@ -1,35 +1,45 @@
 ---
-layout: archive
+layout: minimal
 title: ""
 permalink: /publications/
-author_profile: true
 ---
 
+## Working Papers
+
+{% assign working_papers = site.publications | where: "category", "manuscripts" %}
+{% for post in working_papers %}
+<div class="publication-item">
+  <div class="publication-title">{{ post.title }}</div>
+  <div class="publication-authors">{{ post.authors }}</div>
+  {% if post.venue %}<div class="publication-venue">{{ post.venue }}</div>{% endif %}
+  {% if post.excerpt %}<div style="margin-top: 8px; color: #666; font-size: 0.95em;">{{ post.excerpt }}</div>{% endif %}
+  <div class="publication-links">
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+    {% if post.slidesurl %}<a href="{{ post.slidesurl }}">Slides</a>{% endif %}
+  </div>
+</div>
+{% endfor %}
+
+## Publications
+
+{% assign publications = site.publications | where: "category", "published" %}
+{% for post in publications %}
+<div class="publication-item">
+  <div class="publication-title">{{ post.title }}</div>
+  <div class="publication-authors">{{ post.authors }}</div>
+  {% if post.venue %}<div class="publication-venue">{{ post.venue }}</div>{% endif %}
+  {% if post.excerpt %}<div style="margin-top: 8px; color: #666; font-size: 0.95em;">{{ post.excerpt }}</div>{% endif %}
+  <div class="publication-links">
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper</a>{% endif %}
+    {% if post.slidesurl %}<a href="{{ post.slidesurl }}">Slides</a>{% endif %}
+  </div>
+</div>
+{% endfor %}
+
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+<p style="margin-top: 40px; text-align: center;">
+  <a href="{{site.author.googlescholar}}">Google Scholar Profile</a>
+</p>
 {% endif %}
 
 

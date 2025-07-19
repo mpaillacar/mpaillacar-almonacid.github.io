@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "  Manuel A. Paillacar-Almonacid  "
+title                    : "Manuel Paillacar-Almonacid"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://mpaillacar.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "/mpaillacar-almonacid.github.io" # the subpath of your site, e.g. "/blog"
+name                     : &name "Manuel Paillacar-Almonacid"
+description              : &description "Ph.D. Candidate in Financial Economics"
+url                      : "https://mpaillacar-almonacid.github.io" 
+baseurl                  : "" 
 repository               : "mpaillacar/mpaillacar-almonacid.github.io"
 owner_name               : "Manuel Paillacar-Almonacid"
 
@@ -26,7 +26,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Manuel Paillacar-Almonacid"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate"
+  bio              : "Ph.D. Candidate in Financial Economics"
   location         : "London"
   employer         : "University College London"
   uri              : # URL

@@ -4,7 +4,7 @@ authors: "Manuel Paillacar-Almonacid, Mauricio Calani"
 #coauthors: 
 #  - "Mauricio Calani"
 collection: publications
-category: manuscripts
+category: published
 permalink: /publication/LTV
 excerpt: 'This paper examines the impact of loan-loss provisioning (LLP) regulation on the mortgage lending market. Using administrative data, we find that, in Chile, LLP reduced loan-to-value ratios while having minimal effects on interest rates, suggesting that banks adjust lending standards beyond pricing strategies.'
 date: 2022-02-01
