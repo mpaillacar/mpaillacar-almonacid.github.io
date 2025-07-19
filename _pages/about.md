@@ -9,7 +9,7 @@ redirect_from:
 **Welcome!**
 
 ------
-I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk), where I am affiliated with the [UCL Centre for Finance](https://www.centreforfinance.org/index.htm). My current research focuses on the role of financial markets and beliefs in shaping wealth distribution and corporate financing decisions.
+I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk), where I am affiliated with the [UCL Centre for Finance](https://www.centreforfinance.org/index.htm). My research explores the interplay between financial markets, investor beliefs, and heterogeneity in determining wealth distribution and corporate financing choices.
 
 ------
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/).
