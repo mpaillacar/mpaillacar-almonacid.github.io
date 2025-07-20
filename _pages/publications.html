@@ -56,16 +56,8 @@ author_profile: true
   {% endfor %}
 </div>
 
-<!-- Fallback for any other publications -->
-{% assign other_papers = site.publications | where_exp: "item", "item.category != 'conferences' and item.category != 'manuscripts'" %}
-{% if other_papers.size > 0 %}
-<div class="publication-group">
-  <h2 class="section-header">Other Publications</h2>
-  {% for post in other_papers reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-</div>
-{% endif %}
+<!-- Fallback section temporarily removed due to Liquid syntax issues -->
+<!-- To restore: use separate where filters instead of complex where_exp -->
 
 
 
