@@ -21,6 +21,17 @@ author_profile: true
   margin-top: 20px;
 }
 
+.subsection-header {
+  font-size: 1.25em;
+  font-weight: 500;
+  color: #333;
+  margin: 30px 0 15px 0;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #e0e0e0;
+  font-family: "EB Garamond", Georgia, Times, serif;
+  font-variant: small-caps;
+}
+
 .publication-group {
   margin-bottom: 50px;
 }
@@ -56,6 +67,19 @@ author_profile: true
   {% for post in published_papers reversed %}
     {% include archive-single.html %}
   {% endfor %}
+
+  <h3 class="subsection-header">Pre-Doctoral Work</h3>
+  <div class="archive__item">
+    <h3 class="archive__item-title">
+      <strong>The pass-through of loan-loss-provisioning on mortgage lending: Evidence from a regulatory change</strong>
+    </h3>
+    <p class="archive__item-excerpt">
+      <em>Published in Journal of Banking and Finance, 2022</em>
+    </p>
+    <p class="archive__item-excerpt">
+      This paper examines the impact of loan-loss provisioning (LLP) regulation on the mortgage lending market. Using administrative data, we find that, in Chile, LLP reduced loan-to-value ratios while having minimal effects on interest rates, suggesting that banks adjust lending standards beyond pricing strategies.
+    </p>
+  </div>
 </div>
 
 <!-- Fallback section temporarily removed due to Liquid syntax issues -->
