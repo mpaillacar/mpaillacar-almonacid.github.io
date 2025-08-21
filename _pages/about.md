@@ -15,4 +15,4 @@ I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk), w
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/).
 
 ------
-**Research Interests**: Macro-Finance, Corporate Finance, Asset Pricing.
+**Research Interests**: Macro-Finance, Asset Pricing, Corporate Finance.
