@@ -9,10 +9,10 @@ redirect_from:
 **Welcome!**
 
 ------
-I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk), where I am affiliated with the [UCL Centre for Finance](https://www.centreforfinance.org/index.htm). My research examines how financial markets—and the forces behind asset prices—shape wealth distribution, and vice versa. 
+I am a Ph.D. candidate in Financial Economics at [UCL](https://www.ucl.ac.uk), where I am affiliated with the [UCL Centre for Finance](https://www.centreforfinance.org/index.htm). My research examines how financial markets—and the forces behind asset prices—shape wealth distribution and the macroeconomy, and vice versa. 
 
 ------
 Before joining UCL, I was an Economic Analyst at the Economic Research Area of the [Central Bank of Chile](https://portalbiblioteca.bcentral.cl/en/web/banco-central/).
 
 ------
-**Research Interests**: Macro-Finance, Asset Pricing, Corporate Finance.
+**Research Interests**: Macro-Finance, Financial Intermediation, Asset Pricing.
