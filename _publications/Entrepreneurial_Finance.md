@@ -1,5 +1,5 @@
 ---
-title: "Entrepreneurial Finance with Beliefs Distortions"
+title: "Entrepreneurial Finance with Robustly Optimal Policies"
 collection: publications
 category: conferences
 #permalink: /publication/Risk_Premium
