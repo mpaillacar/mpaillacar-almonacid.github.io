@@ -3,11 +3,11 @@ title: "Entrepreneurial Finance with Robustly Optimal Policies"
 collection: publications
 category: conferences
 excerpt: >
-  I develop a continuous-time entrepreneurial finance model in which a
-  risk-averse entrepreneur and competitive financiers are jointly robust to
-  unspanned idiosyncratic uncertainty from technology adoption. Robustness
-  shapes adoption, consumption-portfolio, and debt policy, determining
-  state-dependent security valuation and endogenous default.
+  We develop a continuous-time model of entrepreneurial finance and technology
+  adoption under ambiguity. The entrepreneur and lenders evaluate revenues
+  under worst-case distortions, generating state-dependent links among adoption
+  intensity, leverage, valuation, and default. We apply it to artificial
+  intelligence adoption.
 #permalink: /publication/Risk_Premium
 #excerpt: 'This paper is about fixing template issue #693.'
 #date: 2024-02-17
