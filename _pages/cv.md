@@ -20,7 +20,7 @@ redirect_from:
 ======
 
 * 2023 - Now: Research Assistant
-  * RA to Dr. Wei Cui, University College London
+  * RA to Professor Wei Cui, University College London
 
 * 2019 - 2022: Economic Analyst
   * Economic Research Area, Central Bank of Chile
