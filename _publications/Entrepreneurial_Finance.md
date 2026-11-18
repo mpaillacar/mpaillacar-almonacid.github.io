@@ -1,13 +1,14 @@
 ---
-title: "Entrepreneurial Finance with Robustly Optimal Policies"
+title: "The AI Investment Boom: Capital Allocation and Financial Risk"
 collection: publications
 category: conferences
 excerpt: >
-  We develop a continuous-time model of entrepreneurial finance and technology
-  adoption under ambiguity. The entrepreneur and lenders evaluate revenues
-  under worst-case distortions, generating state-dependent links among adoption
-  intensity, leverage, valuation, and default. We apply it to artificial
-  intelligence adoption.
+  *Motivated by the expansion of computing infrastructure in the artificial
+  intelligence industry, I study how financial intermediation shapes sectoral
+  investment and growth in a two-sector model with endogenous asset prices.
+  Productive complementarities interact with limited risk-bearing capacity,
+  determining whether expansion stimulates investment elsewhere and how shared
+  financial exposures affect risk across the economy.*
 #permalink: /publication/Risk_Premium
 #excerpt: 'This paper is about fixing template issue #693.'
 #date: 2024-02-17

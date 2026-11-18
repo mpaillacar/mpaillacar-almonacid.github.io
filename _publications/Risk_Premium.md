@@ -2,13 +2,15 @@
 title: "Endogenous Risk Premia and Wealth Distribution"
 collection: publications
 category: conferences
+coauthors:
+  - Wei Cui
 excerpt: >
-  We study asset prices, wealth distribution, and welfare in a continuous-time
-  incomplete-markets economy with frictional intermediaries. Greater uninsured
-  income risk lowers interest rates, raises valuations and intermediary
-  leverage, and amplifies financial fragility. Looser frictions improve welfare
-  for wealth-poor households but increase wealth concentration, revealing a
-  distributional tradeoff.
+  *We study the welfare effects of financial frictions and the comovement between
+  intermediary capital and the labour income share in an infinite-horizon,
+  continuous-time incomplete-markets economy. Households face uninsurable
+  idiosyncratic income risk and aggregate risk and invest through financial
+  intermediaries whose relative wealth endogenously drives risk premia and return
+  volatility.*
 #permalink: /publication/Risk_Premium
 #excerpt: 'This paper is about fixing template issue #693.'
 #date: 2024-02-17

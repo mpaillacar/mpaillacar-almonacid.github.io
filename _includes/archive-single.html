@@ -33,6 +33,10 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <!-- Keep links for final publications -->
       {% endif %}
     </h3>
+
+    {% if post.collection == 'publications' and post.coauthors %}
+      <p>with {{ post.coauthors | join: ', ' | escape }}.</p>
+    {% endif %}
     
     
     {% if post.read_time %}
